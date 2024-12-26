@@ -1,6 +1,7 @@
 # Image Classification with Multi-labels (Mini Project 2)
 B11705051 陳奕廷
 
+專案詳細資訊: [Kaggle 連結](https://www.kaggle.com/competitions/2024-sldl-mini-project-2)
 ## 專案介紹
 此專案延伸自HW3影像分類問題，使用的是多標籤分類方法。資料集包含37866張訓練圖像和8784張待預測圖像。資料集中的標籤數量為79個，每張圖片可能擁有多個標籤，因此需要處理多標籤分類問題，並採用相應的損失函數來計算。
 
